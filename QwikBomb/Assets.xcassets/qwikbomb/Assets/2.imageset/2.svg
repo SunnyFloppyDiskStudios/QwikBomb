@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="306px" height="306px" viewBox="0 0 306 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M168,85 C172.418278,85 176,88.581722 176,93 L176.001188,105.43733 C192.152653,114.895867 203,132.431167 203,152.5 C203,182.599519 178.599519,207 148.5,207 C118.400481,207 94,182.599519 94,152.5 C94,132.847697 104.401744,115.624852 120.000041,106.036657 L120,93 C120,88.581722 123.581722,85 128,85 L168,85 Z" id="Combined-Shape" fill="#4C4C4C" transform="translate(148.5, 146) rotate(23) translate(-148.5, -146)"></path>
+    </g>
+</svg>
